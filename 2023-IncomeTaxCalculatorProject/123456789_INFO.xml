@@ -1,0 +1,57 @@
+<Name> Apostolos Zarras </Name>
+<AFM> 123456789 </AFM>
+<Status> Married Filing Jointly </Status>
+<Income> 22570.0 </Income>
+
+<Receipts>
+
+<ReceiptID> 1 </ReceiptID>
+<Date> 10/5/1996 </Date>
+<Kind> Basic </Kind>
+<Amount> 251.0 </Amount>
+<Company> Parta </Company>
+<Country> Jakusa </Country>
+<City> Drama </City>
+<Street> Fukosima </Street>
+<Number> 5 </Number>
+
+<ReceiptID> 2 </ReceiptID>
+<Date> 12/12/2015 </Date>
+<Kind> Basic </Kind>
+<Amount> 15.0 </Amount>
+<Company> LOL </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> Napolewn Zerva </Street>
+<Number> 12 </Number>
+
+<ReceiptID> 4 </ReceiptID>
+<Date> 11/11/2111 </Date>
+<Kind> Other </Kind>
+<Amount> 1000.0 </Amount>
+<Company> ewre </Company>
+<Country> werw </Country>
+<City> ewr </City>
+<Street> were </Street>
+<Number> 4 </Number>
+
+<ReceiptID> 5 </ReceiptID>
+<Date> 2/2/2019 </Date>
+<Kind> Travel </Kind>
+<Amount> 100.0 </Amount>
+<Company> sfsdf </Company>
+<Country> sdfssdf </Country>
+<City> sdfsd </City>
+<Street> sdfs </Street>
+<Number> 1 </Number>
+
+<ReceiptID> 6 </ReceiptID>
+<Date> 11/12/2021 </Date>
+<Kind> Basic </Kind>
+<Amount> 4535.0 </Amount>
+<Company> wer </Company>
+<Country> wer </Country>
+<City> wer </City>
+<Street> wer </Street>
+<Number> 4 </Number>
+
